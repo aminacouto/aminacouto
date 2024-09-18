@@ -13,8 +13,8 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novos desaf
 
 ##
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminacouto&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminacouto&hide_progress=false&theme=radical&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminacouto&show_icons=true&theme=radical&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminacouto&hide_progress=false&theme=radical&layout=compact&locale=pt-br"/>
 </div> <br>
 
 🚀 Tecnologias e Ferramentas

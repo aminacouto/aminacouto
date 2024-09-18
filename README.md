@@ -1,6 +1,7 @@
 ## Olá! eu sou Amina do Couto 👋
 
 - 💻 Sou desenvolvedora com foco em front-end, com o objetivo de me tornar full-stack.
+- ✔️ Tenho experiência na criação de páginas responsivas e dinâmicas, focadas na experiência do usuário.
 - 📚 Busco sempre aprimorar meus conhecimentos e aplicá-los em projetos.
 - 🌸 Pronomes: Ela/Dela
 - 🔎 Curiosidade: Sou formada em Gastronomia, mas decidi seguir a carreira de tecnologia!
@@ -16,15 +17,15 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novos desaf
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminacouto&hide_progress=false&theme=radical&layout=compact"/>
 </div> <br>
 
-🚀 Tecnologias
+🚀 Tecnologias e Ferramentas
 <div>
-  <img align="center" height="40 width="40" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" height="40 width="40" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" height="40 width="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" height="40 width="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" height="40 width="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" height="40 width="40" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="center" height="40 width="40" alt="canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+  <img align="center" height="40" width="40" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" height="40" width="40" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" height="40" width="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" height="40" width="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" height="40" width="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" height="40" width="40" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="center" height="40" width="40" alt="canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 </div>
 
 ##
